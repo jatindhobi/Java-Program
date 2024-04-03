@@ -4,4 +4,5 @@
 ### [Lab 4](https://github.com/jatindhobi/Java-Program/blob/main/Factorial.java) : Factorial
 ### [Lab 5](https://github.com/jatindhobi/Java-Program/blob/main/Ifelse.java) : If-Else Program
 ### [Lab 6](https://github.com/jatindhobi/Java-Program/blob/main/InterfaceDemo.java) : Interface 
-### [Lab 7](https://github.com/jatindhobi/Java-Program/blob/main/Menudriven.java) : Menu Driven Program
+### [Lab 7](https://github.com/jatindhobi/Java-Program/blob/main/Menudriven.java) : First Menu Driven Program
+### [Lab 8](https://github.com/jatindhobi/Java-Program/blob/main/Menudriven2.java) : Second Menu Driven Program
